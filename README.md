@@ -1,4 +1,4 @@
-# teste
+# Teste funcionamento do TortoiseSNV com Github
 Repositorio de teste para ver o funcionamento com o TortoiseSVN
 
 Para dar commits com o TortoiseSVN é preciso gerar um Token, nas configurações do GitHub (Settings / Developer Settings), criar e selecionar todas as permissões.
